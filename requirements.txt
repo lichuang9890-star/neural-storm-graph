@@ -1,0 +1,3 @@
+# Neural Storm Graph — zero external dependencies (stdlib only)
+# Optional: uncomment for ChromaDB vector extensions
+# chromadb>=0.4.0
